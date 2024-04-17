@@ -1,0 +1,16 @@
+{
+  "files": [
+    {
+      "fileName": "证券期货经营机构资管产品投资债券市场情况周报表_20240409.xlsx",
+      "dataStartLineId": 6,
+      "keyColumn": "E",
+      "dataEndColumn": "AR"
+    },
+    {
+      "fileName": "证券期货经营机构资管产品投资债券市场情况周报表_20240416.xlsx",
+      "dataStartLineId": 6,
+      "keyColumn": "E",
+      "dataEndColumn": "AR"
+    }
+  ]
+}
